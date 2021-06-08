@@ -1,4 +1,4 @@
-# Ewha_Game_Study
+# Ewha_Game_Study :pencil2:
 다양한 게임을 플레이하고 분석하자! 자신만의 주제로 발표한다
 
 --------------------------------
@@ -13,6 +13,6 @@
 
 --------------------------------
 
-## 세미나
+## 세미나 :thumbsup:
 ### NDC21 (2021.06.09. ~ 2021.06.11.)
 https://ndc.nexon.com/introduce/noticeView?currPage=1&bdNo=100002609&srchType=&srchText=
