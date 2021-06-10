@@ -1,4 +1,4 @@
-# Ewha_Game_Study :pencil2:
+# EGA(Ewha_Game_Analysis) :pencil2:
 다양한 게임을 플레이하고 분석하자! 자신만의 주제로 발표한다
 
 # Member 🙋‍♂️
