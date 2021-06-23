@@ -3,10 +3,10 @@
 
 # Member 🙋‍♂️
 ❤ 김예인 : https://github.com/KYI070  
-🧡 이혜진 : https://github.com/leeheajin  
-💛 정예림 : https://github.com/118dg  
-💚 .  
-💙 .
+🧡 김채린 : https://github.com/hikimrin  
+💛 안민경 : https://github.com/kyoungminn  
+💚 이혜진 : https://github.com/leeheajin  
+💙 정예림 : https://github.com/118dg  
 
 --------------------------------
 
