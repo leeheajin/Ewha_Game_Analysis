@@ -1,7 +1,7 @@
 # EGA(Ewha_Game_Analysis) :pencil2:
 다양한 게임을 플레이하고 분석하자! 자신만의 주제로 발표한다
 
-# Member 🙋‍♂️
+# Members 🙋‍♂️
 ❤ 김예인 : https://github.com/KYI070  
 🧡 김채린 : https://github.com/hikimrin  
 💛 안민경 : https://github.com/kyoungminn  
